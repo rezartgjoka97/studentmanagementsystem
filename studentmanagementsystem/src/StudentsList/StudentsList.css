@@ -1,0 +1,21 @@
+.gridStyle {
+  padding: 10% 2%;
+}
+
+.modifyBTNStyle {
+  color: #1e167a;
+  margin-left: 45%;
+}
+
+.deleteBTNStyle {
+  color: #d11a2a;
+  margin-left: 35%;
+}
+
+.deleteBTNStyle:hover {
+  cursor: pointer;
+}
+
+.modifyBTNStyle:hover {
+  cursor: pointer;
+}

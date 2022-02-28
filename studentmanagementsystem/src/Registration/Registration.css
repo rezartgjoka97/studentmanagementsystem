@@ -1,0 +1,28 @@
+.registrationImage {
+  background-image: url('./../Images/RegistrationImage.webp');
+  height: 70%;
+  width: 100%;
+  margin-top: 25%;
+  z-index: -1;
+  position: absolute;
+}
+
+.registrationFormDiv {
+  padding: 15% 0% 0% 50%;
+  width: 140%;
+}
+
+.registrationLabelDesc {
+  font-size: 25px;
+}
+
+.inputGroup {
+  display: flex;
+  justify-content: center;
+}
+
+.registrationButtonContainer {
+  display: inherit;
+  color: #000000;
+  padding-left: 35%;
+}
